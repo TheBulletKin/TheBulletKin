@@ -18,7 +18,7 @@ As well as a <public blog page> where I make posts discussion game design theory
 
 # Projects
 ## Stalker OpenGL Scene
-My [Stalker scene recreation](https://github.com/TheBulletKin/Atmospheric-Anomalous-Forest-Scene) was made using OpenGL and C++. More details are present on the attached readme. It features dynamic lighting, instanced tree rendering, coloured lighting and sounds.
+My [Stalker scene recreation](https://github.com/TheBulletKin/Atmospheric-Anomalous-Forest-Scene) was made using OpenGL and C++. More details are present on the attached readme. It features dynamic lighting, instanced tree rendering, coloured lighting and surface displacement in the vertex shader.
 
 ## Stylised environmental landscape
 Created using OpenGL and C++, my [stylised environment](https://github.com/TheBulletKin/3015-Project1) showcases normal based texture mapping, particle systems, dynamic lighting, distance fog and cloud shadows through texture blending.
