@@ -25,7 +25,7 @@ Created using OpenGL and C++, my [stylised environment](https://github.com/TheBu
 I developed a [console window based rhythm game](https://github.com/TheBulletKin/Console-Rhythm-Game) using C++. Documentation listed in the readme. Single key input lets you record a beat track, can then play the track by pressing keys to the beat.
 
 ## Third person shadow stealth game
-This [shadow based stealth game](https://github.com/TheBulletKin/2007-Coursework-Assignment) is a short demo with AI controlled enemies with various awareness states, weapon systems and a stealth system that alters your visibility to enemies based on light exposure.
+This [shadow based stealth game](https://github.com/TheBulletKin/Third-Person-Shadow-Stealth-Game) is a short demo with AI controlled enemies with various awareness states, weapon systems and a stealth system that alters your visibility to enemies based on light exposure.
 
 ## Guard Duty
 A [multiplayer Thief-like](https://github.com/TheBulletKin/Guard-Duty) where a team of thieves play against a team of guards, in a game of brain over brawn.
