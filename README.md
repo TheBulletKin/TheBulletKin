@@ -1,11 +1,9 @@
 # About Me
-Oliver Warry
-Student at University of Plymouth
-Games Designer / Programmer
-<Website link>
+Oliver Warry | Student at University of Plymouth | Games Designer / Programmer | <Website link>
 
 ## Description
 I am a games designer / programmer working on several projects demonstrating skills in Unity, Java, C++ and OpenGL. 
+
 A massive fan of stealth games, shooters and exploration games akin to Stalker, Dishonored and Rainbow Six. I want to create games and projects that let players express creative intent through mastery of mechanics and a desire to experiment within the game space.
 
 I am currently working on my [long term personal personal game](https://github.com/TheBulletKin/3000-Game), a tactical shooter, stealth game hybrid with a bit of dark mysticism. It aims to combine the tactical feel of early Ghost Recon and Rainbow Six with the sandbox and creative elements of Dishonored. 
